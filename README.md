@@ -12,3 +12,6 @@ To run the YouTube Transcript Summarizer locally, follow these steps:
 4. Open Chrome and go to extensions and manage extensions.
 5. Choose developer mode and select load unpacked extension.
 6. Set the path to the downloaded folder and click ok, the extension is now enabled.
+
+# Screenshot
+<img src="image.png" height="100" width="200"></img>
