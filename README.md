@@ -14,4 +14,4 @@ To run the YouTube Transcript Summarizer locally, follow these steps:
 6. Set the path to the downloaded folder and click ok, the extension is now enabled.
 
 # Screenshot
-<img src="image.png" height="100" width="200"></img>
+<img src="image.png" height="300" width="500"></img>
